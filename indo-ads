@@ -1,10 +1,7 @@
+
 ! Title: AdBlockID
-! Version: 19.291.1116
+! Version: 19.295.1175
 [Adblock Plus 2.0]
-||filmstreamvk.me
-||flashx.co
-||neurozinzin.com
-||vidhd.site
 ||088653e3c1c6.com^
 ||0fb3eaa80d.com^
 ||0x1f4b0.com^
@@ -20,6 +17,10 @@
 ||128cash.
 ||12c72b7d3ce.com^
 ||13.228.245.212^
+||139.99.33.240^
+||139.99.33.244^
+||139.99.33.248^
+||139.99.33.249^
 ||15257dddaccde96.com^
 ||166.62.7.206^
 ||185.165.169.108^
@@ -61,7 +62,9 @@
 ||45.32.105.134^
 ||47f624b2e6c6072e.com^
 ||4dasli.
+||4exlkjnngs.com^
 ||564d28256cddaeba.com^
+||57e3ascxh1.com^
 ||588poker.
 ||6066bd8aab9d73e3.com^
 ||65vk1fba34.com^
@@ -246,6 +249,7 @@
 ||agnznxaqd.com^
 ||agospkfp.bid^
 ||agqguxbm.com^
+||agqjjcwm.com^
 ||agrxsdujnh.com^
 ||agshzkcsvoou.bid^
 ||agungqiu.org^
@@ -472,8 +476,7 @@
 ||aqyhsqhggq.com^
 ||arawegnvvufy.com^
 ||arcfwcxi.com^
-||ardetamedia.com/images/affiliate/
-||ardetamedia.com/images/banner-affiliate/
+||ardetamedia.com
 ||arfttojxv.com^
 ||argggultrji.com^
 ||arjgnqlsdo.com^
@@ -911,6 +914,7 @@
 ||bmhvaoxr.com^
 ||bmichkohfqtnvq.com^
 ||bmirhdkborr.bid^
+||bmjpxyrpiyq.com^
 ||bmjwsrcxvnsjne.com^
 ||bmmqsdyud.com^
 ||bmnccwprdrszpj.bid^
@@ -938,6 +942,7 @@
 ||bnqaljyjkpwmiu.bid^
 ||bnqfbcnzdt.com^
 ||bnqgubwpq.com^
+||bnsjb1ab1e.com^
 ||bnsowzvglhu.com^
 ||bnstnhto.com^
 ||bnwjoqkudmh.bid^
@@ -957,6 +962,7 @@
 ||bolped77.
 ||bomjrcum.bid^
 ||bonxsqstn.com^
+||booking.com^
 ||boplhfqz.com^
 ||boqdapoiv.com^
 ||bosqq.online^
@@ -1015,6 +1021,7 @@
 ||bsepyppitmkkf.com^
 ||bsjhbxtrbvkr.com^
 ||bskijhtct.com^
+||bskwrsjudrp.com^
 ||bslgmaxqild.bid^
 ||bslqjxmltuel.bid^
 ||bsmryjou.com^
@@ -1055,6 +1062,7 @@
 ||buhlhkkvljt.com^
 ||buhxsaifjxupaj.com^
 ||buitxcrnucyi.com^
+||bukalapak.com
 ||bukpsslm.com^
 ||burobtnbpgkh.com^
 ||burvyzqwfqg.bid^
@@ -1146,6 +1154,7 @@
 ||bzsukdfbotd.com^
 ||bzvimexwdle.com^
 ||bzyrhqbdldds.com^
+||c02o3mpych.com^
 ||caajevalistl.com^
 ||caaqyzbpsbtk.com^
 ||cacpcaizwx.bid^
@@ -1426,6 +1435,7 @@
 ||cnyblliqyhcs.bid^
 ||cnygzgurqpwop.bid^
 ||coaincltxhw.com^
+||coepzyavjda.com^
 ||cofybuwuc.com^
 ||cogxsnvqesph.com^
 ||cohhcaahxxcf.com^
@@ -1486,6 +1496,7 @@
 ||cqindhgqi.com^
 ||cqjnxsbuplcqri.com^
 ||cqkqukynmny.com^
+||cqnhmccy.com^
 ||cqoxufzgev.bid^
 ||cqoyvpldkmqt.com^
 ||cqpmmfxvibjr.com^
@@ -1528,7 +1539,6 @@
 ||crypto-loot.com^
 ||crypto-webminer.com^
 ||crypto.csgocpu.com^
-||cryptobara.com
 ||cryptobara.com^
 ||cryptoloot.pro^
 ||cryptonoter.com^
@@ -1563,6 +1573,7 @@
 ||ctohqzii.com^
 ||ctpjfacao.com^
 ||ctplyvuuzdcv.com^
+||ctqoduhdji.com^
 ||ctrsopfwiadfjn.com^
 ||ctsrwmcshv.com^
 ||cttnlnsnwdokqb.com^
@@ -1695,6 +1706,7 @@
 ||daftarpoker.
 ||daftarpoker228.
 ||daftarqq*.
+||daftarsb1m.net
 ||daftarsb1m.net^
 ||daftarsbobetresmi.
 ||dagqnyapwql.bid^
@@ -1775,6 +1787,7 @@
 ||deicslktis.com^
 ||deiqehvcdnntg.com^
 ||dekoder.ws
+||dekoder.ws^
 ||dekoder.ws^*?proxy=
 ||deltabit.co
 ||denixsips.com^
@@ -1880,6 +1893,7 @@
 ||djhqkoikovr.bid^
 ||djiufagozzla.com^
 ||djjckavq.com^
+||djjyyqgsnnfa.com^
 ||djnroblmpyxrh.com^
 ||djqercix.com^
 ||djrkauxla.bid^
@@ -1966,6 +1980,7 @@
 ||dojmlztmbrvp.com^
 ||doksfyhdtqmipa.com^
 ||doljrizlsem.bid^
+||domainesia-assets.s3.amazonaws.com
 ||domainesia-assets.s3.amazonaws.com^
 ||domdtvbhgg.com^
 ||domino5star.
@@ -2001,6 +2016,7 @@
 ||dqdnwhyxeblt.com^
 ||dqdwvmpez.com^
 ||dqekudhbwprx.com^
+||dqeqsiwc.com^
 ||dqfhklmwj.com^
 ||dqfpksnabgagc.com^
 ||dqiokxyebdc.com^
@@ -2361,6 +2377,7 @@
 ||emfprumou.bid^
 ||emirdzzvhviv.com^
 ||emoknbcnwamv.bid^
+||emqeafoztotu.com^
 ||emrcrjcxjdsccz.bid^
 ||emrflqumwcz.bid^
 ||emrumkgmdmdq.com^
@@ -2666,6 +2683,7 @@
 ||fdogfuqpgeub.com^
 ||fdrkesvb.com^
 ||fdrqokusnwpq.com^
+||fdrqqpeengzj.com^
 ||fdtvsqnkujlwaa.bid^
 ||fduyzzjazngphw.bid^
 ||fdvilavipz.com^
@@ -2687,6 +2705,7 @@
 ||feqyuubaixe.bid^
 ||fevgukzwvjam.com^
 ||fevrbniqa.com^
+||fewmphbwt.com^
 ||ffahsidlivqb.bid^
 ||ffaspwzfq.com^
 ||ffbqnbdcrx.com^
@@ -2969,6 +2988,7 @@
 ||frmwbxzynkrswj.com^
 ||frmxnnjejpzbr.com^
 ||frqmnrlqk.com^
+||frsqgvwmzjnun.com^
 ||frtfwlvwuw.com^
 ||frtkblgbqc.bid^
 ||fruitadblock.net
@@ -3358,7 +3378,6 @@
 ||gnreqzzts.com^
 ||go.bestmobiworld.com^
 ||go.megabanners.cf^
-||go.megabanners.cf^
 ||goacestnzgrd.com^
 ||gobba.myeffect.net^
 ||gobijnwbyri.com^
@@ -3591,6 +3610,7 @@
 ||gzxjfkhwvhwfzr.com^
 ||gzyddiyiyme.bid^
 ||gzzctcekf.com^
+||h3lw971ym6.com^
 ||hadczwhwfvhcc.com^
 ||haezawhdumz.bid^
 ||hafksvqiir.com^
@@ -4186,6 +4206,7 @@
 ||ifeuddaywa.com^
 ||iffzxqnhd.com^
 ||ifgnsrtjcz.com^
+||ifhxmaazmylfx.com^
 ||iflndvke.com^
 ||ifmobkrjonnm.com^
 ||ifofucuvklrnfw.com^
@@ -4840,6 +4861,7 @@
 ||johonmtpyv.com^
 ||jokermerah.
 ||jollqxplkz.bid^
+||jomrhqkqvvxix.com^
 ||jomys.xyz^
 ||jomznuefrw.com^
 ||joqnoyniblzm.com^
@@ -5331,6 +5353,7 @@
 ||kozloiczght.com^
 ||kpcflxxodhoxev.bid^
 ||kpchywhqcrkz.com^
+||kpehltcnwo.com^
 ||kpgcyqkktm.bid^
 ||kpgjogkbwjpmz.com^
 ||kpjrmmfrxbrw.com^
@@ -5511,6 +5534,7 @@
 ||kyelvsyayysa.com^
 ||kyfekvgsyraz.bid^
 ||kygozmlrr.com^
+||kygssorgg.com^
 ||kyhkyreweusn.com^
 ||kyieflmhiekvrr.bid^
 ||kylbshaqo.bid^
@@ -5539,6 +5563,7 @@
 ||ladhyjqqgerr.com^
 ||lafmacun.net
 ||lafvopkskbeuj.bid^
+||lajgmzddxrzjl.com^
 ||lajpmujdntg.com^
 ||lalywprgzl.com^
 ||lamwiadakwa.com^
@@ -5731,6 +5756,7 @@
 ||lkuirehx.com^
 ||lkyuoybczr.com^
 ||lkzvhtetshbu.com^
+||llahnch259.com^
 ||llbevorurncfcc.bid^
 ||llbynwyuoj.bid^
 ||llddarkinywtmg.bid^
@@ -5788,6 +5814,7 @@
 ||locjzfoh.com^
 ||lodqycbq.com^
 ||lofipgeld.bid^
+||log.viva.co.id/iframe^
 ||log.viva.co.id^
 ||logkzudhrg.com^
 ||logovo.net
@@ -5798,6 +5825,7 @@
 ||lokeriklan.com^
 ||loljuduad.bid^
 ||lopdogmltbnbc.com^
+||loppjod.online^
 ||lorhamnvukws.bid^
 ||lorpidlfpbu.bid^
 ||losital.ru^
@@ -5816,6 +5844,7 @@
 ||lpbyadpvf.com^
 ||lpdeuhyakoits.bid^
 ||lpiqwtsuduhh.com^
+||lpiwenesruwn.com^
 ||lplqyocxmify.com^
 ||lplznzccvn.bid^
 ||lpohfjht.com^
@@ -5824,6 +5853,7 @@
 ||lprkphlgaybvtn.com^
 ||lptggobhuuxcdw.com^
 ||lpwzjhkuwbe.com^
+||lpxdkhfauevov.com^
 ||lpxxafsupgsho.com^
 ||lpzltglosmbqul.bid^
 ||lpzsxemf.com^
@@ -5952,6 +5982,7 @@
 ||lwfvrhlqzjseyu.com^
 ||lwjzsigenxsl.com^
 ||lwljmcved.bid^
+||lwmwrsfzm.com^
 ||lwmxykibvt.bid^
 ||lwnpbwds.bid^
 ||lwocvazxfnuj.com^
@@ -6209,10 +6240,9 @@
 ||miner.nablabee.com^
 ||miner.nimiq.com^
 ||miner.pr0gramm.com^
-||miner.pr0gramm.com^$websocket
+||miner.pr0gramm.com^
 ||minerad.com^
 ||minercry.pt^
-||minero-proxy-*.now.sh^
 ||minero.pw^
 ||minescripts.info^
 ||minexmr.com^
@@ -6340,6 +6370,7 @@
 ||moxvufgh.com^
 ||moyeluljrail.com^
 ||mp3free.pw
+||mpbjbeueinytao.com^
 ||mpfzgidlxsqtyt.com^
 ||mpgflvbe.com^
 ||mphqfyhswko.bid^
@@ -6540,7 +6571,8 @@
 ||naetoris.pw^
 ||nahixtmnmpcz.com^
 ||nahnoji.cz
-||nahnoji.cz^$websocket
+||nahnoji.cz^
+||nahnoji.cz^
 ||nahpewniig.com^
 ||nahvyfyfpffm.com^
 ||najsiejfnc.win^
@@ -6976,10 +7008,12 @@
 ||nyzobnpbcwjwfs.com^
 ||nzbbsxujqlhjn.com^
 ||nzbtvquutdr.com^
+||nzcjjhkd.com^
 ||nzcpdaboaayv.com^
 ||nzhuswwhd.com^
 ||nzkjbazl.com^
 ||nzkxmphfbqrfzs.com^
+||nzlydrgumirn.com^
 ||nzssjqjv.bid^
 ||nzvbcznobb.com^
 ||nzwwrvywcfqmsq.com^
@@ -7128,6 +7162,7 @@
 ||ohscoczrnhzd.com^
 ||ohszjtbehoo.com^
 ||ohwlwlus.com^
+||ohzczsyjadw.com^
 ||oiahzjhwpsokt.com^
 ||oicbwkyjsyxjgj.bid^
 ||oickwqmwerbnq.bid^
@@ -7292,6 +7327,7 @@
 ||opdmxlsdzd.bid^
 ||open-hive-server-1.pp.ua^
 ||openkatalog.com^
+||openkatalog.com^
 ||openload.cc
 ||openload.co
 ||openload.fun
@@ -7365,6 +7401,7 @@
 ||oulxdvvpmfcd.com^
 ||ounaihekw.bid^
 ||ounyrilukncbj.com^
+||ouuktjcoh.com^
 ||ouvhowyqhacec.bid^
 ||ouvtjehb.bid^
 ||ouytveod.com^
@@ -7702,6 +7739,7 @@
 ||play5.flashx.
 ||playe.vidto.se^
 ||playerassets.info^
+||plaza-bisnis.com^
 ||plbfuyckzn.com^
 ||plcsedkinoul.com^
 ||plexcoin.info^
@@ -8228,6 +8266,7 @@
 ||qmjjvpoqhb.com^
 ||qmmdvzsebi.com^
 ||qmotkiltrim.com^
+||qmotmcwz.com^
 ||qmouzhzz.com^
 ||qmxpttxjv.com^
 ||qmzwcrordyc.com^
@@ -8400,6 +8439,7 @@
 ||qwuejlmct.com^
 ||qwuexgqmua.com^
 ||qwufihkhgxphq.com^
+||qwulxgznx.com^
 ||qwuxwxdr.com^
 ||qwvktoqxqum.bid^
 ||qwyzzghouu.com^
@@ -8545,6 +8585,7 @@
 ||realnwspfbumn.com^
 ||reauthenticator.com^
 ||rednubes.de
+||reevaipi.com^
 ||refatxhcuu.com^
 ||regbigltd.bid^
 ||regqrfuvncqcm.com^
@@ -8987,9 +9028,9 @@
 ||sebdaadnodjt.com^
 ||secfpgpqx.com^
 ||sedapq*.
-||seed-*.nimiq-network.com^
-||seed-*.nimiq.com^
-||seed-*.nimiq.network^
+||nimiq-network.com^
+||nimiq.com^
+||nimiq.network^
 ||seed1.sushipool.com^
 ||seiqobwpbofg.com^
 ||sekajiwqmym.com^
@@ -9068,13 +9109,14 @@
 ||shnoadlvpylf.com^
 ||shohabiymgjxdb.com^
 ||shrink-service.it
-||shrink-service.it/js/cM.js
+||shrink-service.it
 ||shthbopqoz.bid^
 ||shtkybxv.com^
 ||shush.se
-||shush.se/loader/load.js
+||shush.se
 ||shuxcbgab.com^
 ||shvdvzydgryx.com^
+||shvjvbmyyyfa.com^
 ||shxbqzirzonks.bid^
 ||shyyyxjw.com^
 ||siaiscphvghttd.com^
@@ -9135,7 +9177,6 @@
 ||skzsukues.bid^
 ||sldtsvjnpwundn.bid^
 ||sleeptimer.org
-||sleeptimer.org/playerc.js
 ||slekgfwlrwfmes.bid^
 ||sletqnksol.com^
 ||slfxmsziv.bid^
@@ -9277,7 +9318,6 @@
 ||streambeam.io
 ||streambeam.io^
 ||streamcherry.com
-||streamplay.*.wasm$xmlhttprequest
 ||streamplay.me
 ||streamplay.top
 ||studio100.it
@@ -9293,7 +9333,7 @@
 ||sugqlryshxarn.com^
 ||suhprdfb.bid^
 ||sukgtuksypr.com^
-||sukipli.com/*.gif^
+||sukipli.com
 ||sumizxwhfsrke.com^
 ||sumo.com^
 ||sumome.com^
@@ -9617,6 +9657,7 @@
 ||tifzusomh.com^
 ||tigzuaivmtgo.com^
 ||tihjxcxutox.bid^
+||tijoctqry.com^
 ||tijosnqojfmv.com^
 ||tikjbfpd.com^
 ||tikuedobxa.com^
@@ -10037,6 +10078,7 @@
 ||uembrcfeuwtsjy.com^
 ||uemjnvyn.com^
 ||uenpibqyjvim.com^
+||ueopjincquazoo.com^
 ||ueosdjscxucj.com^
 ||uepsvcyxxrbs.bid^
 ||ueptzgugtxis.com^
@@ -10057,6 +10099,7 @@
 ||ufrzvzpympib.com^
 ||ufugfbtpp.com^
 ||ufvehyxuiwe.com^
+||ufvzwshjkhocjn.com^
 ||ugahbedypf.com^
 ||ugbmcjmpapeo.bid^
 ||ugfxrrqz.bid^
@@ -10169,6 +10212,7 @@
 ||umusjdiehxbn.com^
 ||umvgcqaxmie.com^
 ||umwsjnsvfzuo.com^
+||umxxuqpbhylyy.com^
 ||umybobusjo.com^
 ||umyiwkxzf.com^
 ||umzrccpfbnuu.com^
@@ -10204,6 +10248,7 @@
 ||uoyznzsggodnl.com^
 ||uozfvskaqrgm.com^
 ||upckrtagwpwk.com^
+||upikeoshfhw.com^
 ||upogbpseso.com^
 ||upoint.id^
 ||uppybbhxbblxa.com^
@@ -10212,6 +10257,7 @@
 ||uprlyxksgcffgn.com^
 ||uptobox.com
 ||uptostream.com
+||uptostream.com/assets/
 ||upvtnuffy.com^
 ||upwtyghvknaiw.com^
 ||upzpyrsvvxpoey.com^
@@ -10307,6 +10353,7 @@
 ||vdfoejtqimcgog.com^
 ||vdldsjqxppi.com^
 ||vdrpwkycbla.com^
+||vdvaazkk.com^
 ||vebubhzj.com^
 ||veedjtyvhn.com^
 ||veehdmymwvvexv.com^
@@ -10338,6 +10385,7 @@
 ||vhouorcd.com^
 ||vhpmiipdpjq.com^
 ||vhzgmzakn.com^
+||viatepigan.com^
 ||vickgdkdrwpdt.com^
 ||video.streaming.estream.to^
 ||video.videos.vidto.me^
@@ -10386,6 +10434,7 @@
 ||vjltrbzrtqmkib.com^
 ||vjqshoyjxwk.com^
 ||vjzcgotoy.com^
+||vkaofq64zz.com^
 ||vkbftstazhjgdx.com^
 ||vkcdnservice.com^
 ||vkhrnisuky.com^
@@ -10505,7 +10554,6 @@
 ||wachipho.net^
 ||wahanatoto*.
 ||wallpoper.com
-||wallpoper.com^*/c.js
 ||wanrtqneiissrb.com^
 ||wapoawoo.net^
 ||wasm.stream
@@ -10698,6 +10746,7 @@
 ||xbgoulaxoen.com^
 ||xbinjxvdnjqllh.com^
 ||xblcqncce.com^
+||xbmyvkkksjlsek.com^
 ||xbofirnnmzlprd.com^
 ||xbtpmwjwsjn.com^
 ||xbzakxofyhdy.com^
@@ -11005,6 +11054,7 @@
 ||ywuyrhkaiat.com^
 ||ywxnjrkkrnyzc.com^
 ||yx-ads6.com^
+||yxdwsuppvt.com^
 ||yxfkdvkh.com^
 ||yximgdpivguxke.com^
 ||yxsyvsqrkbdqym.com^
@@ -11075,6 +11125,7 @@
 ||zhihrotpyphycy.com^
 ||zhlfogiy.com^
 ||zhpdtoott.com^
+||zhqigwbchfnqn.com^
 ||zhrmtsxcdkjj.com^
 ||zhxdiirwhtico.com^
 ||ziebgbikz.com^
@@ -11106,6 +11157,7 @@
 ||zlx.com.br^
 ||zminer.zaloapp.com^
 ||zmkihizd.com^
+||zmnhcswlu.com^
 ||zmoawpfsz.com^
 ||zmogtyau.com^
 ||zmutugjqvia.com^
