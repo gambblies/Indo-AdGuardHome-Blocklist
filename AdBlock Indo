@@ -2,7 +2,7 @@
 ! Compiled by AdisyaNET
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
 ! Filter dari ABPindo dan AdBlockID
-! Last modified: 2019-11-01 15:15:23
+! Last modified: 2019-11-04 11:07:24
 !
 ||05ee3a24ed11df058c8.com^
 ||0x1f4b0.com^
@@ -163,6 +163,7 @@
 ||adreviewcamp.com^
 ||adrtgbebgd.bid^
 ||ads-link.net^
+||ads-server.hipwee.com^
 ||ads.pubmatic.com^
 ||ads.vidoomy.com^
 ||adsbingo.com^
@@ -227,6 +228,7 @@
 ||afatogel*.
 ||afbcashidr.com^
 ||afbfoxmwzlqa.com^
+||afcxojqr.com^
 ||afdyfxfrwbfy.com^
 ||afedispdljgb.com^
 ||afeeknuueaztxt.com^
@@ -281,6 +283,7 @@
 ||ahuosyyqprt.com^
 ||ahvnvtxbk.bid^
 ||ahwjxktemuyz.com^
+||ahwzvnqc.com^
 ||ahyuzjgukqyd.com^
 ||ahzybvwdwrhi.com^
 ||aibcqjlvxxd.com^
@@ -761,6 +764,7 @@
 ||bewumuhax.bid^
 ||bexbpzultczaa.com^
 ||bexogxapbqict.bid^
+||bexrnrxbgh.com^
 ||bezcmsrzx.com^
 ||bezqvpliexxtfw.com^
 ||bfcazxhkofa.club^
@@ -768,6 +772,7 @@
 ||bfeofwzszuis.com^
 ||bfhlxjwc.com^
 ||bfidvcsuazwy.com^
+||bfjwdxeakfifak.com^
 ||bfkpzjqpawfu.com^
 ||bflcuvtyffao.bid^
 ||bfmrffluuazwn.com^
@@ -835,6 +840,7 @@
 ||binasmdul.com^
 ||binpartner.com^
 ||binullxzwnsqws.com^
+||bioskop168.*.gif
 ||birpidnl.com^
 ||birslhmnnc.com^
 ||bisvljlzmai.com^
@@ -990,6 +996,7 @@
 ||bqyzesmanfucq.com^
 ||brand.ad^
 ||brfyubakyg.com^
+||brgzqubngqbioh.com^
 ||brhkraeknmjk.com^
 ||briqsnyafmmkxr.com^
 ||briqumvlvzshh.com^
@@ -1139,6 +1146,7 @@
 ||bzvimexwdle.com^
 ||bzyrhqbdldds.com^
 ||c-4fambt.com^
+||c-stat.eu^
 ||c02o3mpych.com^
 ||caajevalistl.com^
 ||caaqyzbpsbtk.com^
@@ -1228,6 +1236,7 @@
 ||cdyiipzo.com^
 ||cdyygbzihdh.com^
 ||cdzifdzftkmfof.com^
+||cedcdoqkrjabs.com^
 ||cefqvuhygky.com^
 ||ceidxneoogpuh.com^
 ||cekakses.
@@ -1235,6 +1244,7 @@
 ||cekzdbewgnzu.com^
 ||ceritasex.
 ||cesxssavc.com^
+||cetedaninghining.pro^
 ||ceugjbwb.com^
 ||cevwkduhwbuc.com^
 ||cewegncr.com^
@@ -1249,12 +1259,14 @@
 ||cfdmkifknsjt.com^
 ||cfhkiriics.com^
 ||cfkhdbzn.com^
+||cfknxewzz.com^
 ||cfnumapv.com^
 ||cfpqhrfpccmpq.com^
 ||cfqpxzx.com^
 ||cfqzixjwwqgow.com^
 ||cfraazitu.com^
 ||cfs.uzone.id^
+||cfs1.uzone.id^
 ||cfsdtzggpcmr.com^
 ||cfskcqrwbog.com^
 ||cftervwhu.com^
@@ -1313,6 +1325,7 @@
 ||cimcshjoue.com^
 ||cimpmvccrg.bid^
 ||cineqkifrlxsep.bid^
+||cioqyqlkimuh.com^
 ||cipohwidxc.com^
 ||cisfjtamphuqt.com^
 ||cistcrrhqfm.bid^
@@ -1510,6 +1523,7 @@
 ||crtntrvjuun.bid^
 ||cruqmpwhczna.bid^
 ||crvvrxfgsvohiy.com^
+||crwzxtuhvzv.com^
 ||crxhbchbd.com^
 ||crykaxliilz.com^
 ||cryptaloot.pro^
@@ -1759,8 +1773,6 @@
 ||ddlwnwshlk.com^
 ||ddmlzfwsb.com^
 ||ddnmzrpp.com^
-||ddns.net^*=ws://
-||ddns.net^*=wss://
 ||de-mi-nis-ner.info^
 ||de-mi-nis-ner2.info^
 ||de-ner-mi-nis4.info^
@@ -1979,6 +1991,7 @@
 ||domnovrek.com^
 ||donhyxngg.com^
 ||doqjemtf.com^
+||dormitysature.info^
 ||dosanrnlq.com^
 ||douangvwl.com^
 ||dovltuzibsfs.com^
@@ -2097,6 +2110,7 @@
 ||dvjhdodvcu.com^
 ||dvlhwokr.bid^
 ||dvokgydenwaksi.com^
+||dvoyy3qexr.com^
 ||dvpgijdm.com^
 ||dvprcchlzke.bid^
 ||dvrttkoyngtnhi.com^
@@ -2186,8 +2200,10 @@
 ||eaoxitwrlr.com^
 ||easmdmxps.com^
 ||easnviytengk.com^
+||easy-hit-counter.com^
 ||easygatepr.bid^
 ||easyhits4u.com^
+||eatayvgov.com^
 ||eatxurmf.com^
 ||eayyegrkujxcw.com^
 ||ebbhjxspf.com^
@@ -2841,6 +2857,7 @@
 ||fmcwqmwdaubb.com^
 ||fmgcaqljz.bid^
 ||fmoihhvbehopc.com^
+||fmpevnvced.com^
 ||fmpsrqsib.bid^
 ||fmrbnuhtabzavu.com^
 ||fmuxugcqucuu.com^
@@ -2952,7 +2969,7 @@
 ||freecontent.win
 ||frefxzrmcdxdmi.com^
 ||frereadayobq.com^
-||frereadayobq.com^
+||frereadayobq.com^third-party
 ||freshrefresher.com^
 ||frezshmura.bid^
 ||frfgfhzxtfvsp.com^
@@ -3524,6 +3541,7 @@
 ||gvyliqny.bid^
 ||gvzphwswtv.com^
 ||gwasavfgelbuah.bid^
+||gwigqsgv.com^
 ||gwjmznxk.com^
 ||gwohimtyhbthg.com^
 ||gwovohvkzay.com^
@@ -3683,6 +3701,7 @@
 ||heqcvweqvqf.com^
 ||heracgjcuqmk.com^
 ||herdethi.net^
+||hesftig.site^
 ||hettwksj.bid^
 ||hevfziuvxq.bid^
 ||heydqkfbglbu.com^
@@ -3926,6 +3945,7 @@
 ||hrorxufknjdm.com^
 ||hrskwmpvpgocj.com^
 ||hrtgkdwjbjblb.com^
+||hrtsclmulpwnr.com^
 ||hrtxufdb.com^
 ||hrvxpinmdyjx.com^
 ||hrykyhqtgcro.com^
@@ -4455,6 +4475,7 @@
 ||itbiwlsxtigx.com^
 ||itdfougdewupfd.bid^
 ||itecsozudb.com^
+||itefgucwwytfc.com^
 ||itgfqliqge.com^
 ||itlmnxlauah.com^
 ||itsskxyyi.bid^
@@ -4937,6 +4958,7 @@
 ||jrtzehrbg.com^
 ||jrunvrfma.com^
 ||jruovuiejirpev.com^
+||jrvtmfxkkl.com^
 ||jrwlxwypmgvk.com^
 ||jryyekccnw.com^
 ||jryywrczwcfmw.com^
@@ -5270,6 +5292,7 @@
 ||kkxrizpdh.com^
 ||kkztcmjvklinxp.bid^
 ||klakcdiqmgxq.com^
+||klayiwpzjk.com^
 ||kldyclplx.com^
 ||kleonsqapa.bid^
 ||klepuazuxv.com^
@@ -5342,7 +5365,7 @@
 ||koofysojwb.com^
 ||korocbbktnw.bid^
 ||koszzhucazsboe.com^
-||kotaksilver.casa^
+||koutobey.net^
 ||kovglrrlpqum.com^
 ||kovykpybtuylq.bid^
 ||kozloiczght.com^
@@ -5425,6 +5448,7 @@
 ||ktiwcxvrwedt.com^
 ||ktjcrhdppesdd.com^
 ||ktjqfqadgmxh.com^
+||ktrackdata.com^
 ||ktrgcpceilj.com^
 ||ktrmzzrlkbet.com^
 ||ktrxpqlfnuouf.com^
@@ -5572,6 +5596,7 @@
 ||lajpmujdntg.com^
 ||lalywprgzl.com^
 ||lamwiadakwa.com^
+||langit21.*.gif
 ||lanktydm.com^
 ||lapakqq.
 ||lapbekessbozpx.bid^
@@ -5741,6 +5766,7 @@
 ||ljyncrypt.bid^
 ||ljzhxfurwibo.com^
 ||ljzsucmiodrro.com^
+||lk21indo.*^
 ||lkaarvdprhzx.com^
 ||lkamujrx.com^
 ||lkaumkxmzefa.com^
@@ -5928,6 +5954,7 @@
 ||ltffxzmjazabn.bid^
 ||ltfroezjyyhv.com^
 ||ltfxlxze.com^
+||ltgmnghobitgb.com^
 ||ltjvgpxg.com^
 ||ltmdqbrxjaqn.bid^
 ||ltnfhltuksarpq.com^
@@ -6305,6 +6332,7 @@
 ||mlntnugnalv.bid^
 ||mlnvmpmgzfk.bid^
 ||mlrocrzhrgbyi.bid^
+||mlsbxcgueedu.com^
 ||mlsyuvxhhmvd.com^
 ||mlzqvrunjp.com^
 ||mm.zubovskaya-banya.ru^
@@ -6375,6 +6403,7 @@
 ||mousvowpfso.com^
 ||mouuhrprxixwrw.com^
 ||moveadrenaline.com^
+||movieon21.*.gif
 ||moxdmkdzvkgxow.bid^
 ||moxvufgh.com^
 ||moyeluljrail.com^
@@ -6543,8 +6572,6 @@
 ||mxzxeersjv.com^
 ||myawrthcsjc.com^
 ||mybannermaker.com^
-||myeffect.net^*=ws://
-||myeffect.net^*=wss://
 ||myfebqficpi.com^
 ||myfrvfxqeimp.com^
 ||myhdpwmjabpc.bid^
@@ -6710,12 +6737,14 @@
 ||ngptxgpbdnutvi.com^
 ||nguooqblyjrz.com^
 ||ngxyswkgi.com^
+||ngyfmghgd.com^
 ||ngymzbpjnqra.com^
 ||nharaeklya.com^
 ||nhbklvpswckx.com^
 ||nheanvabodkw.com^
 ||nhkhxvnhfdkn.com^
 ||nhndzbmnkps.com^
+||nhoralgrab.info^
 ||nhqmomir.com^
 ||niaqaltky.com^
 ||nicmtzkucd.com^
@@ -6723,6 +6752,7 @@
 ||nidjppokmlcx.com^
 ||nidksyrrrtckzj.com^
 ||niematego.tk^
+||nigypfppbo.com^
 ||nijksigqjzalcf.com^
 ||nikxhdrys.com^
 ||nimiq.agency^
@@ -6999,6 +7029,7 @@
 ||nxnjpslufglmvp.com^
 ||nxtipyczkivm.com^
 ||nyaisjsghvj.bid^
+||nybsqmqbycmtid.com^
 ||nycgwaknv.com^
 ||nychunlnlca.com^
 ||nycnjewyxex.com^
@@ -7317,6 +7348,8 @@
 ||opknogsela.bid^
 ||opoefqthl.bid^
 ||oppcgcqytazs.com^
+||opriateddoc.info^
+||opsivesh.net^
 ||opyyykrdyuum.com^
 ||oqaghvocticy.com^
 ||oqfoiwjwysbffe.com^
@@ -7398,6 +7431,7 @@
 ||ovrdkhamiljt.com^
 ||ovvddcpjqndfv.com^
 ||ovzmelkxgtgf.com^
+||owajgovpu.com^
 ||owcdycko.com^
 ||owcykhrgovbvhh.bid^
 ||owdeuzstq.bid^
@@ -7424,6 +7458,7 @@
 ||oxzffweyw.com^
 ||oyaqzikgjw.com^
 ||oybahnktadxjju.com^
+||oyfsdpmhncobvj.com^
 ||oyiqkjsjmmde.com^
 ||oyiqurfqulhuq.com^
 ||oylqnzunnw.com^
@@ -8022,6 +8057,7 @@
 ||qcxhpohiwawnmo.bid^
 ||qcyqimny.com^
 ||qczvjjdbaj.com^
+||qd3u5eeuos.com^
 ||qdajmhpwzdmaji.com^
 ||qdcoqejn.com^
 ||qddgbaux.com^
@@ -8293,6 +8329,7 @@
 ||qrpbogawdr.bid^
 ||qrqmchbp.bid^
 ||qrwlerqenp.com^
+||qrxkugriqkt.com^
 ||qryllyykezxh.bid^
 ||qryuumwmiupy.com^
 ||qrzcenqja.bid^
@@ -8768,6 +8805,7 @@
 ||rsjcpdrhxtbavk.bid^
 ||rsjpgfugttlh.com^
 ||rsmapdngqwonud.bid^
+||rsmykgvarkm.com^
 ||rsnuhrxz.com^
 ||rsosndet.bid^
 ||rsqcrylqremctr.com^
@@ -8787,6 +8825,7 @@
 ||rtogkeafeedde.com^
 ||rtpibuckwnp.com^
 ||rtqlmwfywl.com^
+||rtrlseqbudrzfd.com^
 ||rttclyuvippyw.bid^
 ||rtufxsncbegz.com^
 ||rtusxaoxemxy.com^
@@ -9093,6 +9132,7 @@
 ||siuhfvgambevyz.bid^
 ||siuletrtmkk.com^
 ||sivqblzejhx.com^
+||siwtbongdxve.com^
 ||siwtuvvgraum.com^
 ||sjgttcfj.com^
 ||sjjazrfvzbkt.com^
@@ -9148,6 +9188,7 @@
 ||smwrjtdzhg.com^
 ||smzvvqztihof.com^
 ||smzxkkyuinecwa.com^
+||snambepupkjggz.com^
 ||snaxbgzg.bid^
 ||snckdjuymeopsc.com^
 ||snetddbbbgbp.com^
@@ -9512,6 +9553,7 @@
 ||thbuhcnpt.com^
 ||thcumizbjxnp.bid^
 ||theclickers.net^
+||themobiletracker.
 ||thersprens.com^
 ||thesandonesof.info^
 ||thewhizmarketing.com^
@@ -9716,7 +9758,15 @@
 ||tqwfafmh.bid^
 ||tqwuasyvwebt.bid^
 ||tqzvjmgftvtj.bid^
+||track.aptitudemedia.co^
+||track.spzan.com^
+||track.zerofriend.com^
+||trackdan.com^
+||tracker.beritagar.id^
+||tracker.lazada.co.id^
+||trackingclick.net^
 ||traffic.tc-clicks.com^
+||trafficfactory.biz^
 ||transpoker.
 ||traviilo.com^
 ||trbucgmbren.com^
@@ -9729,6 +9779,7 @@
 ||trgdwwhaa.com^
 ||tricsdqejmu.com^
 ||trjmgercl.com^
+||trk.cpaoptimizer.com^
 ||trndoffers.com^
 ||trqbzsxnzxmf.com^
 ||trvposbevwxvo.bid^
@@ -9928,6 +9979,7 @@
 ||ucfwicndme.com^
 ||uchiytqiuir.com^
 ||ucikujit.bid^
+||uckctkuvwjms.com^
 ||uclftpjqdnvvz.bid^
 ||uclylhzwg.com^
 ||ucozssymgw.com^
@@ -10159,6 +10211,7 @@
 ||uuaajohul.com^
 ||uudehlgu.com^
 ||uujzywpxxrroh.com^
+||uukqisdwolzsjd.com^
 ||uunriutbi.com^
 ||uuzjerqlmxnosw.com^
 ||uvawalhexufy.com^
@@ -10186,6 +10239,7 @@
 ||uzlleehrsmibli.com^
 ||uznwafjxmm.com^
 ||uzpvacvhdssq.com^
+||uzsqhuevese.com^
 ||uzvuhhyymmkc.com^
 ||uzxbwsnhjlt.com^
 ||uzxyqxolrc.com^
@@ -10254,7 +10308,7 @@
 ||vhzgmzakn.com^
 ||viatepigan.com^
 ||vickgdkdrwpdt.com^
-||vidcpm.com^
+||vidcpm.com^third-party
 ||video.streaming.estream.to^
 ||video.videos.vidto.me^
 ||videoplayer2.xyz^
@@ -10263,6 +10317,7 @@
 ||viphdsrlec.com^
 ||virgbmkmear.com^
 ||visualwebsiteoptimizer.com^
+||viunypnvhcw.com^
 ||viurihkwo.com^
 ||viwsqbbvfknp.com^
 ||vjcewkcjqu.com^
@@ -10624,6 +10679,7 @@
 ||xeiwcnwmlv.com^
 ||xellvrgouivty.com^
 ||xeqbdmuvjqt.com^
+||xevhszzauj.com^
 ||xfasadle.com^
 ||xffljxbbpy.com^
 ||xfmjleuaqgnuvv.com^
@@ -10662,6 +10718,7 @@
 ||xlnwabndmqn.com^
 ||xlqkpyimdep.com^
 ||xmevsiig.com^
+||xmlppcbuzz.com^
 ||xmnnurmdrjmd.com^
 ||xmr.cool^
 ||xmrchaqjwqyvz.com^
@@ -10814,6 +10871,7 @@
 ||ykhozkljfpdtd.com^
 ||ykombouoo.com^
 ||ykykbowk.com^
+||ylcgewdtetazek.com^
 ||yleztmobykox.com^
 ||yljtytqq.com^
 ||yllfdnftjo.com^
@@ -10862,6 +10920,7 @@
 ||yrbjfusd.com^
 ||yrcpupgqtn.com^
 ||yrdrtzmsmt.com^
+||yrfeurfeacuul.com^
 ||yrkozodemantj.com^
 ||yrmxtvqpp.com^
 ||yrpjklwly.com^
