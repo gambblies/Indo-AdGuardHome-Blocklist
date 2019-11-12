@@ -2,7 +2,7 @@
 ! Compiled by AdisyaNET
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
 ! Filter dari ABPindo dan AdBlockID
-! Last modified: 2019-11-08 08:16:22
+! Last modified: 2019-11-12 08:42:34
 !
 ||05ee3a24ed11df058c8.com^
 ||0x1f4b0.com^
@@ -540,6 +540,7 @@
 ||atkkkyhyxemut.bid^
 ||atrcoikdyagv.com^
 ||atryzvsn.com^
+||atzcmddc.com^
 ||atzrsfweb.bid^
 ||aubmolods.com^
 ||aubrythgmge.bid^
@@ -673,6 +674,7 @@
 ||bandarq*.
 ||bandarsakong.
 ||bandartogelsingapore.
+||banianspaddi.info^
 ||banuhqxbc.com^
 ||baommitouduxo.bid^
 ||baphruesqm.com^
@@ -1779,8 +1781,6 @@
 ||ddlwnwshlk.com^
 ||ddmlzfwsb.com^
 ||ddnmzrpp.com^
-||ddns.net^*=ws://
-||ddns.net^*=wss://
 ||de-mi-nis-ner.info^
 ||de-mi-nis-ner2.info^
 ||de-ner-mi-nis4.info^
@@ -2925,6 +2925,7 @@
 ||fpfivothg.com^
 ||fpguuwnpkvqsq.bid^
 ||fpherzxrae.com^
+||fpkcggyczcvix.com^
 ||fpluhtibx.com^
 ||fpnxicejwel.com^
 ||fpoxpjpxn.com^
@@ -3158,6 +3159,7 @@
 ||fzgitqrqrsyyiv.com^
 ||fzhwvlpnqg.bid^
 ||fzmogmfqh.com^
+||fzorwhus.com^
 ||fzpseyhkanhopd.com^
 ||fzqxefkbjzwiqa.com^
 ||fzrcalpbcu.com^
@@ -3933,6 +3935,7 @@
 ||hpqxznpb.bid^
 ||hpsthxyqxqae.com^
 ||hpufwccrmiwz.com^
+||hpuknttzl.com^
 ||hpvxmmttf.bid^
 ||hpwdohgicpmi.com^
 ||hpwoowyxhrsatx.com^
@@ -4397,6 +4400,7 @@
 ||interestingz.pw^
 ||internetpositif.uzone.id^
 ||interwin88.
+||inukjwvwhz.com^
 ||invgsoqwtkvxs.bid^
 ||inxhtjrwictg.com^
 ||ioatyggwaypq.com^
@@ -4554,6 +4558,7 @@
 ||iweacndqhiht.com^
 ||iwfzluau.com^
 ||iwgdguuz.com^
+||iwlvufxv.com^
 ||iwmonrwpeeku.com^
 ||iwnvbdosun.bid^
 ||iwptktyoq.bid^
@@ -5657,6 +5662,7 @@
 ||lbtcymxcocwh.bid^
 ||lbtifiprfzy.com^
 ||lburmovcjefv.com^
+||lbushibdda.com^
 ||lbwtrvpgvqkqc.com^
 ||lbytagcqxefsn.com^
 ||lceihiuarfqbn.bid^
@@ -6009,6 +6015,7 @@
 ||ltzjkjxx.com^
 ||luagrcmjnovjp.com^
 ||lubjqiebnayctz.bid^
+||ludovwmhazsx.com^
 ||ludwmwca.bid^
 ||lugknllg.bid^
 ||luhbhndh.com^
@@ -6613,8 +6620,6 @@
 ||mxzxeersjv.com^
 ||myawrthcsjc.com^
 ||mybannermaker.com^
-||myeffect.net^*=ws://
-||myeffect.net^*=wss://
 ||myfebqficpi.com^
 ||myfrvfxqeimp.com^
 ||myhdpwmjabpc.bid^
@@ -6947,6 +6952,7 @@
 ||nqkttgrapot.bid^
 ||nqlrewsfmywgbx.com^
 ||nqmwfddfwogbhw.com^
+||nqtqrnfzvp.com^
 ||nqtxbweqb.com^
 ||nqtyrwyklcmh.com^
 ||nqugsnsoghz.bid^
@@ -8930,6 +8936,7 @@
 ||rwfqhbwkxpewc.com^
 ||rwgvulisul.com^
 ||rwkxvess.com^
+||rwlyiedd.com^
 ||rwlzbswwmmh.com^
 ||rwmttawspapqcy.com^
 ||rwphwhdoktfq.com^
@@ -9287,6 +9294,7 @@
 ||sparechange.io^
 ||sparnove.com^
 ||spbflxvnheih.com^
+||spcpgtepary.com^
 ||speedlinkdown.com^
 ||spfrlpjmvkmq.com^
 ||spgjtypydhdxl.com^
@@ -10632,6 +10640,7 @@
 ||wpbhnyjej.com^
 ||wpkcfajkeytrro.com^
 ||wplqgfpj.com^
+||wpqvggsnc.com^
 ||wpxowkmaeyrte.com^
 ||wqhmpzjvdmvm.com^
 ||wqkpadciw.com^
@@ -11113,6 +11122,7 @@
 ||zhpdtoott.com^
 ||zhqigwbchfnqn.com^
 ||zhrmtsxcdkjj.com^
+||zhxdduzdibm.com^
 ||zhxdiirwhtico.com^
 ||ziebgbikz.com^
 ||zinrora.pw^
