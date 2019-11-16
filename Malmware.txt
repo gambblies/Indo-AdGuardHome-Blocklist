@@ -1,7 +1,7 @@
 ! Title: MalmBlock
 ! Compiled by AdisyaNET
 ! Description: Filter buat proteksi dari malmware
-! Last modified: 2019-11-12 08:42:34
+! Last modified: 2019-11-16 08:43:17
 !
 ||0daygameparadise.com^
 ||0emm.com^
@@ -572,6 +572,7 @@
 ||all-screenshots.net^
 ||allcracksnhacks.com^
 ||alldaycheats.com^
+||alleyarm.com^
 ||allfilesend.com^
 ||allfilmshd.com^
 ||allfreehack.com^
@@ -628,8 +629,8 @@
 ||amazingcounters.com^
 ||amazinglyhot.com^
 ||amazingoffer.biz^
-||amazonaws.com^*.kissinsights.com/
-||amazonaws.com^*.kissmetrics.com/
+||amazonaws.com^*.kissinsights.com
+||amazonaws.com^*.kissmetrics.com
 ||amazonaws.com^*=avnts_error
 ||amazoncards.dlcodes.com^
 ||amazoncodefree.com^
@@ -1720,6 +1721,7 @@
 ||booter-list.eu^
 ||booter.pw^
 ||booter.xyz^
+||bootme.club^
 ||boredcrown.com^
 ||boss-cheats-games.com^
 ||boss.berlinonline.de^
@@ -2034,6 +2036,7 @@
 ||cdn-net.com^
 ||cdn.c-i.as^
 ||cdn.cloudcoins.co^
+||cdn.contalyze.com^
 ||cdn.driveback.ru^
 ||cdn.hiido.cn^
 ||cdn.odoscope.cloud^
@@ -2074,7 +2077,6 @@
 ||centraltag.com^
 ||centrumhackers.com^
 ||centuryuniversalssdlaboratory.com^
-||ceros.com^
 ||certifica.com^
 ||certified-hacks.com^
 ||cervell.io^
@@ -2233,7 +2235,7 @@
 ||chiefcurrent.com^
 ||chinchickens.com^
 ||chip-skins.com^
-||chip.de^*_tracking/
+||chip.de^*_tracking
 ||chkpt.zdnet.com^
 ||chmproxy.bid^
 ||chmzlxs.com^
@@ -3696,7 +3698,7 @@
 ||data.caroda.io^
 ||data.circulate.com^
 ||data.econa.com^
-||data.fotorama.io/?
+||data.fotorama.io
 ||data.gosquared.com^
 ||data.imakenews.com^
 ||data.marketgid.com^
@@ -4419,6 +4421,7 @@
 ||engage-cdn.schibsted.media^
 ||engageclick.com^
 ||engagemaster.com^
+||engagetosell.com^
 ||engageya.com^
 ||engagio.com^
 ||engine212.com^
@@ -5838,7 +5841,6 @@
 ||fun-hits.com^
 ||functionalclam.com^
 ||functionalhack.info^
-||fundingchoicesmessages.google.com^
 ||fungamecheats.com^
 ||fungames.vip^
 ||funinformatique.com^
@@ -7142,7 +7144,7 @@
 ||heyhelga.net^
 ||heystaks.com^
 ||hfc195b.com^
-||hgcdn.net/?
+||hgcdn.net
 ||hhb123.tk^
 ||hi.hellobar.com^
 ||hiconversion.com^
@@ -7668,7 +7670,7 @@
 ||invoc.us^
 ||invoca.net^
 ||invoca.solutions^
-||io.narrative.io/?
+||io.narrative.io
 ||iocnt.net^
 ||iogous.com^
 ||iol.io^
@@ -8389,6 +8391,7 @@
 ||log.mappy.net^
 ||log.mediacategory.com^
 ||log.musical.ly^
+||log.news.zing.vn^
 ||log.newsvine.com^
 ||log.nordot.jp^
 ||log.olark.com^
@@ -10283,6 +10286,7 @@
 ||pixel.spotify.com^
 ||pixel.sprinklr.com^
 ||pixel.staging.tree.com^
+||pixel.trackverify.com^
 ||pixel.tree.com^
 ||pixel.tuko.co.ke^
 ||pixel.usrsync.com^
@@ -12315,6 +12319,7 @@
 ||stat.ku6.com^
 ||stat.kununu.cz^
 ||stat.lenta.ru^
+||stat.livesportbar.net^
 ||stat.matichon.co.th^
 ||stat.media^
 ||stat.mixi.media^
@@ -13388,7 +13393,7 @@
 ||top.nydus.org^
 ||top.sec.uz^
 ||top.skyzone.ro^
-||top.startua.com/?
+||top.startua.com
 ||top.t-sk.ru^
 ||top.topua.net^
 ||top.wn.com^
@@ -13956,6 +13961,7 @@
 ||trafficmanager.anyclip.com^
 ||trafficmaxx.de^
 ||trafficregenerator.com^
+||trafficscanner.pl^
 ||traffikcntr.com^
 ||trafic.ro^
 ||trafikkfondet.no^
@@ -15365,3 +15371,4 @@
 ||zynga-poker-hacks.com^
 ||zyngapoker.hackfree.us^
 ||zyngapokerchips4free.com^
+
