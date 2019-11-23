@@ -1,6 +1,31 @@
 ! Title: WhiteList
 ! whitelist AdisyaNET
 !
-@@||pagead2.googlesyndication.com^$important
-@@||reddit.com^$important
-@@||detik.com^$important
+@@||pagead2.googlesyndication.com^
+@@||79423.analytics.edgekey.net^
+@@||api.branch.io
+@@||api.chartbeat.com^
+@@||count.ly^
+@@||dmcdn.net^
+@@||equifaxps.122.2o7.net^
+@@||kiplinger.112.2o7.net^
+@@||logging.apache.org^
+@@||metrics.mozilla.com^
+@@||metrics.torproject.org^
+@@||metrics.torproject.org^
+@@||player.sundaysky.com^
+@@||redirect.appmetrica.yandex.com^
+@@||redirect.appmetrica.yandex.net^
+@@||reseguiden.se^*.siteCatalyst.js
+@@||s.youtube.com^
+@@||sentry.mba^
+@@||siteanalytics.compete.com^
+@@||smartpixel.tv
+@@||ssl.google-analytics.com
+@@||t.appsflyer.com^
+@@||track2.royalmail.com^
+@@||trackcmp.net^
+@@||trackjs.com^
+@@||vodafonelimited.tt.omtrdc.net^
+@@||webtrack.dhlglobalmail.co
+
