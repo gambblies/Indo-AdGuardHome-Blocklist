@@ -2,4 +2,5 @@
 ! whitelist AdisyaNET
 !
 @@||pagead2.googlesyndication.com^$important
-
+@@||reddit.com^$important
+@@||detik.com^$important
