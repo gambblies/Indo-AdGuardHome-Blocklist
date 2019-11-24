@@ -12,7 +12,6 @@
 @@||logging.apache.org^
 @@||metrics.mozilla.com^
 @@||metrics.torproject.org^
-@@||metrics.torproject.org^
 @@||player.sundaysky.com^
 @@||redirect.appmetrica.yandex.com^
 @@||redirect.appmetrica.yandex.net^
