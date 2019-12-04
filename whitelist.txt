@@ -50,3 +50,5 @@
 @@||vodafonelimited.tt.omtrdc.net^
 @@||webtrack.dhlglobalmail.co
 @@||www.googleadservices.com^
+@@||mit.nykredit.dk.dxcloud.epicserver.net^
+@@||hwcdn.net^
