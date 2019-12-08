@@ -36,7 +36,6 @@
 @@||redirect.appmetrica.yandex.net^
 @@||reseguiden.se^*.siteCatalyst.js
 @@||s.youtube.com^
-@@||sas.com^
 @@||sentry.mba^
 @@||siteanalytics.compete.com^
 @@||smartpixel.tv
