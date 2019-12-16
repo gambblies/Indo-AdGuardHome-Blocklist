@@ -50,4 +50,4 @@
 @@||webtrack.dhlglobalmail.co
 @@||www.googleadservices.com^
 @@||mit.nykredit.dk.dxcloud.epicserver.net^
-@@||hwcdn.net^
+@@||awin1.com^|
